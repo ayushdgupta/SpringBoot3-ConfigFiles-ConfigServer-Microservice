@@ -6,3 +6,6 @@ eureka:
     fetch-registry: true
     service-url:                                    # this property will tell our microservice ki kis server ke
       defaultZone: http://localhost:8761/eureka     # paas jake register hona hai.
+
+student:
+  name: Ayush
